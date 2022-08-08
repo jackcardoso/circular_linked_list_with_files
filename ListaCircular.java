@@ -4,8 +4,6 @@
 // AD2 1° semestre de 2022.
 
 // Aluno: Jackson Cardoso de Oliveira
-// Matrícula: 20213050225
-// Polo: Nova Iguaçu
 /* ********************************************/
 
 import java.io.BufferedReader;
